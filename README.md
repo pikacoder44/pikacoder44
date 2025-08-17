@@ -1,8 +1,8 @@
 # Hi there, I'm Hashir 👋
 
-🎓 Software Engineering Student @ Virtual University  
-💻 Full Stack Learner | Tech Enthusiast | Open Source Explorer  
-🚀 Currently building projects with **Next.js, Node.js, MongoDB**  
+💻 Full Stack Developer | Open Source Explorer  
+🚀 Expertise in developing modern web applications, backend systems, and user-friendly interfaces  
+🌱 Always learning, always improving
 
 ---
 
@@ -18,15 +18,19 @@
 ---
 
 ## 📊 GitHub Stats
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikacoder44&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashir123&layout=compact&theme=radical)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pikacoder44&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikacoder44&theme=dracula&layout=compact&hide_border=true" width="36%" />
+
+</div>
+
+
 
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK/](https://www.linkedin.com/in/syedmhashirali/))  
-- [ X ](https://your-portfolio.com/)  
-- [Twitter](https://twitter.com/YOUR-HANDLE)  
+- [LinkedIn](https://www.linkedin.com/in/syedmhashirali/)   
 
 ---
 
