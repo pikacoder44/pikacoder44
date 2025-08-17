@@ -18,14 +18,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashir123&show_icons=true&theme=radical)
+![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikacoder44&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashir123&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)  
-- [Portfolio](https://your-portfolio.com/)  
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK/](https://www.linkedin.com/in/syedmhashirali/))  
+- [ X ](https://your-portfolio.com/)  
 - [Twitter](https://twitter.com/YOUR-HANDLE)  
 
 ---
