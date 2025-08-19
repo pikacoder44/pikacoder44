@@ -128,6 +128,9 @@
     <img src="https://img.shields.io/badge/YouTube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a> 
 
+ <a href="https://x.com/SyedHashir37382" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </div>
 
 ---
