@@ -7,7 +7,7 @@
 
 # Hi there, I'm Hashir 👋
 
-💻 Full Stack Developer | Open Source Explorer  
+💻 Full Stack Developer | Data Analyst | Open Source Explorer  
 🚀 Expertise in developing modern web applications, backend systems, and user-friendly interfaces  
 🌱 Always learning, always improving  
 
@@ -124,7 +124,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://www.youtube.com/@n8xeditz561" target="_blank">
+  <a href="https://www.youtube.com/@pikaop.vfx1122" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a> 
 
