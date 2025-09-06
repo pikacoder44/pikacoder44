@@ -5,7 +5,7 @@
 
 
 
-# Hi there, I'm Hashir 
+# Hi there, I'm Hashir 👋
 
 💻 Full Stack Developer | Data Analyst | Open Source Explorer  
 🚀 Expertise in developing modern web applications, backend systems, and user-friendly interfaces  
