@@ -10,7 +10,7 @@
 💻 Full Stack Developer | Data Analyst | Open Source Explorer
 🚀 Expertise in developing modern web applications, backend systems, and user-friendly interfaces  
 🌱 Always learning, always improving  
-🌐 **Portfolio:** [Portfolio website](https://hashir-n9ebrk2g8-pika-ops-projects.vercel.app/)
+🌐 **Portfolio:** [Portfolio website](https://hashir-dev-delta.vercel.app/)
 
 ---
 
